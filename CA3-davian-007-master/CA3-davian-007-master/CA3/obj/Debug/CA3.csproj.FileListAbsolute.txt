@@ -1,0 +1,18 @@
+C:\Users\jorge.aguilar\Documents\CC\CA3\CA3\bin\Debug\CA3.exe.config
+C:\Users\jorge.aguilar\Documents\CC\CA3\CA3\bin\Debug\CA3.exe
+C:\Users\jorge.aguilar\Documents\CC\CA3\CA3\bin\Debug\CA3.pdb
+C:\Users\jorge.aguilar\Documents\CC\CA3\CA3\obj\Debug\CA3.csprojResolveAssemblyReference.cache
+C:\Users\jorge.aguilar\Documents\CC\CA3\CA3\obj\Debug\CA3.exe
+C:\Users\jorge.aguilar\Documents\CC\CA3\CA3\obj\Debug\CA3.pdb
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Tareas\CA3-davian-007-master\CA3\bin\Debug\CA3.exe.config
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Tareas\CA3-davian-007-master\CA3\obj\Debug\CA3.exe
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Tareas\CA3-davian-007-master\CA3\obj\Debug\CA3.pdb
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Tareas\CA3-davian-007-master\CA3\obj\Debug\CA3.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Tareas\CA3-davian-007-master\CA3\bin\Debug\CA3.exe
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Tareas\CA3-davian-007-master\CA3\bin\Debug\CA3.pdb
+C:\Users\MY\Desktop\CA3-davian-007-master\CA3-davian-007-master\CA3\bin\Debug\CA3.exe.config
+C:\Users\MY\Desktop\CA3-davian-007-master\CA3-davian-007-master\CA3\obj\Debug\CA3.exe
+C:\Users\MY\Desktop\CA3-davian-007-master\CA3-davian-007-master\CA3\obj\Debug\CA3.pdb
+C:\Users\MY\Desktop\CA3-davian-007-master\CA3-davian-007-master\CA3\bin\Debug\CA3.exe
+C:\Users\MY\Desktop\CA3-davian-007-master\CA3-davian-007-master\CA3\bin\Debug\CA3.pdb
+C:\Users\MY\Desktop\CA3-davian-007-master\CA3-davian-007-master\CA3\obj\Debug\CA3.csprojResolveAssemblyReference.cache
